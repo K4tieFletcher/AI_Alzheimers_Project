@@ -1,1 +1,1 @@
-# AI-Alzhemiers-project
+# AI_Alzhiemers_Project
